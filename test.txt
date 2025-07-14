@@ -3,3 +3,5 @@ this is the file with the text
 password = "censored"
 
 git fix commit
+
+test
